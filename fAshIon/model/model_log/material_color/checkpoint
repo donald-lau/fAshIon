@@ -1,0 +1,2 @@
+model_checkpoint_path: "material_color"
+all_model_checkpoint_paths: "material_color"

@@ -1,0 +1,57 @@
+[
+  {
+      "profile": "profile_1",
+      "ratings": [
+        {
+          "set_id": "209512492",
+          "set_rating": 8,
+          "items_rating": [8, 7, 7, 5]
+        },
+        {
+          "set_id": "204980379",
+          "set_rating": 8,
+          "items_rating": [7, 9, 8, 4, 8, 8, 9, 6]
+        },
+        {
+          "set_id": "214272106",
+          "set_rating": 6,
+          "items_rating": [6, 5, 5, 4, 7, 5, 6, 6]
+        },
+        {
+          "set_id": "206026599",
+          "set_rating": 7,
+          "items_rating": [6, 8, 7, 7, 4]
+        },
+        {
+          "set_id": "166657299",
+          "set_rating": 8,
+          "items_rating": [8, 6, 7, 8, 9, 6, 7, 7, 8]
+        },
+        {
+          "set_id": "154999233",
+          "set_rating": 8,
+          "items_rating": [9, 8, 7, 7, 8]
+        },
+        {
+          "set_id": "154037260",
+          "set_rating": 3,
+          "items_rating": [2, 2, 4, 3, 5, 1, 5, 3]
+        },
+        {
+          "set_id": "213175626",
+          "set_rating": 5,
+          "items_rating": [7, 5, 6, 5]
+        },
+        {
+          "set_id": "208349871",
+          "set_rating": 6,
+          "items_rating": [6, 4, 6, 8, 7, 7]
+        },
+        {
+          "set_id": "182437609",
+          "set_rating": 9,
+          "items_rating": [9, 9, 7, 8, 8]
+        }
+      ]
+  }
+]
